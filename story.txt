@@ -15,3 +15,5 @@ Marc answered some of their questions, but didn't tell them everything they need
 When the students asked him why he wouldn't tell them, he told them, "All of you need to 
 implement these trees by yourselves to really understand what you are doing-eh.". After 
 hearing that all the students were at peace.
+
+That is, until CS 300.
