@@ -5,3 +5,9 @@ He always taught the intro course, CS 200 in the Noland Zoology building.
 The building was nice, but it always smelled weird.
 
 Hello, p2 is crazy.
+
+Some of Marc's past students came to him to ask him questions about their p2.
+Marc answered some of their questions, but didn't tell them everything they needed to know.
+When the students asked him why he wouldn't tell them, he told them, "All of you need to 
+implement these trees by yourselves to really understand what you are doing-eh.". After 
+hearing that all the students were at peace.
